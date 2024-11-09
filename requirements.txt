@@ -1,7 +1,7 @@
 # This file may be used to create an environment using:
 # $ conda create --name <env> --file <this file>
 # platform: win-64
-annotated-types=0.7.0=pypi_0
+annotated-types=0.7.0==pypi_0
 blas=1.0=mkl
 blinker=1.9.0=pypi_0
 bzip2=1.0.8=h2bbff1b_6
