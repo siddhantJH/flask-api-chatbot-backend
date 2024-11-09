@@ -42,7 +42,6 @@ sentence-transformers==3.2.1
 setuptools==75.1.0
 tbb==2021.8.0
 threadpoolctl==3.5.0
-tk==8.6.14
 tokenizers==0.20.3
 tqdm==4.67.0
 transformers==4.46.2
