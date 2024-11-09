@@ -1,4 +1,4 @@
-annotated-types==0.7.0
+
 blas==1.0
 blinker==1.9.0
 bzip2==1.0.8
