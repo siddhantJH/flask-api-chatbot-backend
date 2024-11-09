@@ -46,7 +46,6 @@ tokenizers==0.20.3
 tqdm==4.67.0
 transformers==4.46.2
 typing-extensions==4.12.2
-tzdata==2024b
 uritemplate==4.1.1
 urllib3==2.2.3
 vc==14.40
