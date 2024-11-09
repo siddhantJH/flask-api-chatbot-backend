@@ -4,7 +4,6 @@ cachetools==5.5.0
 charset-normalizer==3.4.0
 click==8.1.7
 colorama==0.4.6
-expat==2.6.3
 flask==3.0.3
 flask-cors==5.0.0
 google-ai-generativelanguage==0.6.10
